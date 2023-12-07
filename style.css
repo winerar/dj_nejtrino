@@ -17,9 +17,6 @@ body {
 }
 
 body {
-  /* background: rgb(53, 53, 53); */
-
-  /* background-image: url("./assets/images/1467030305.svg"); */
   background-image: url("./assets/images/background-fill-shadow.svg"),
     radial-gradient(#aaa, #222);
 }
