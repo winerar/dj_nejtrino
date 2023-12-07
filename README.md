@@ -2,7 +2,7 @@
 
 ## Technical Specifications
 
-> Customer: I need to make one page with photos and clickable links
+**Customer:** *"I need to make one page with photos and clickable links"*.
 
 The customer provided:
 
