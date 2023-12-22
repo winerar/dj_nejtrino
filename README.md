@@ -23,5 +23,3 @@ What I've done:
 - extracted icons from Yandex.Music and zvuk.com logos
 - removed the background from the DJ's photo
 - finally, I've coded the page
-
-You can view the result [here](https://winerar.github.io/dj_nejtrino/).
